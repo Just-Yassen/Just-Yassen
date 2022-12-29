@@ -7,6 +7,5 @@
 <!---
 Just-Yassen/Just-Yassen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Hi, i'm @Just -Yassen , i'm interested in web development , i'm currently learning html, css , javascript , my objectif now is to build my first beginers projects
-to build the initiation base on programming.
+--->Hi, i'm @Just -Yassen , i'm interested in web development , i'm currently learning html, css , javascript , my objectif now is to build my first beginers projects to build the initiation base on programming.
 
